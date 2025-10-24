@@ -5,7 +5,7 @@ Follow these steps to execute the notebook in **Google Colab**:
 ---
 
 ### ✅ Step 1: Open Colab Notebook
-- Visit [Google Colab](https://colab.research.google.com)
+- Visit [Colab](https://colab.research.google.com)
 
 ### ✅ Step 2: Sign In
 - Use your personal **Gmail account** to sign in.
